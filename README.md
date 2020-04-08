@@ -17,6 +17,7 @@ It could be useful for someone who wants to save the metadata and the cover/bann
 When running the program, you can choose one of two modes:
 
 **URL Mode:** downloads data for one url at a time that you can copy & paste into the program.
+
 **List Mode:** downloads data for all of the urls listed in a text document.
 
 ## Examples:
