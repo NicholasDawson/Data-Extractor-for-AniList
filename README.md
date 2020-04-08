@@ -23,7 +23,21 @@ When running the program, you can choose one of two modes:
 ## Examples:
 **URL Mode**
 
+![URL Mode Screenshot Terminal](https://raw.githubusercontent.com/NicholasDawson/Data-Extractor-for-AniList/master/Screenshots/url_mode.png "URL Mode Screenshot Terminal")
 
+**List Mode**
+
+![List Mode Screenshot Terminal](https://raw.githubusercontent.com/NicholasDawson/Data-Extractor-for-AniList/master/Screenshots/list_mode.png "List Mode Screenshot Terminal")
+
+**Folder**
+
+![Folder Screenshot](https://raw.githubusercontent.com/NicholasDawson/Data-Extractor-for-AniList/master/Screenshots/folder.png "Folder Screenshot")
+
+**Files**
+
+![Files Screenshot](https://raw.githubusercontent.com/NicholasDawson/Data-Extractor-for-AniList/master/Screenshots/files.png "Files Screenshot")
+
+**Data JSON**
 ```json
 {
   "Banner Image": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101921-rDCpn6FK0mHt.jpg",
