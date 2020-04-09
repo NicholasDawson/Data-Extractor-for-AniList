@@ -1,4 +1,7 @@
 # Data Extractor for AniList
+
+## [Download Python Script](https://raw.githubusercontent.com/NicholasDawson/Data-Extractor-for-AniList/master/data_extractor_for_anilist.py "Download")
+
 ## Software Requirements:
 - [Python 3](https://www.python.org/downloads/ "Python 3")
 	 - **Needed Libraries:**
