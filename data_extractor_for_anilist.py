@@ -124,15 +124,13 @@ try:
         url = input('Paste the URL: ')
         download_data(url)
         while True:
-            another_download = input('Download another or quit (continue | quit): ')
-            if another_download in ['continue', 'c', 'C', 'Continue']:
+            another_download = input('Download another or quit (enter url | quit): ')
+            if another_download not in ['quit', 'q', 'Q', 'Quit', 'exit', 'Exit']:
                 # Ask for url
                 url = input('Paste the URL: ')
                 download_data(url)
-            elif another_download in ['quit', 'q', 'Q', 'Quit', 'exit', 'Exit']:
-                break
             else:
-                print('Input not valid. Try Again...')
+                break
                 
 finally:
     browser.quit()
