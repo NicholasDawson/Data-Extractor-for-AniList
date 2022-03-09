@@ -1,5 +1,7 @@
 # Data Extractor for AniList
 
+> Still working as of 3/9/2022, but make sure you are using selenium 3 not 4!
+
 ## [Download Python Script](https://raw.githubusercontent.com/NicholasDawson/Data-Extractor-for-AniList/master/data_extractor_for_anilist.py "Download")
 
 ## Software Requirements:
