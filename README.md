@@ -5,9 +5,9 @@
 ## Software Requirements:
 - [Python 3](https://www.python.org/downloads/ "Python 3")
 	 - **Needed Libraries:**
-	- requests
-	- bs4
-	- selenium
+	- requests==2.*
+	- beautifulsoup4==4.*
+	- selenium==3.*
 - [geckodriver (Firefox Webdriver)](https://github.com/mozilla/geckodriver/releases "geckodriver")
 	- Place geckodriver.exe into your Python parent folder (ex. C:\Python34 )
 
