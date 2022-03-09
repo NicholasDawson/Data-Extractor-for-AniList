@@ -18,7 +18,7 @@ print('Initializing Web Driver...')
 # Setup Web Driver
 options = webdriver.FirefoxOptions()
 options.headless = True
-browser = webdriver.Firefox(firefox_options=options)
+browser = webdriver.Firefox(options=options)
 
 
 def download_data(url):
